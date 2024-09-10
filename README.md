@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magbak2023
 - 👀 I’m interested in Database administration and cloud management
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on with aws professional
 - 📫 How to reach me magbak2018@yahoo.com
 
